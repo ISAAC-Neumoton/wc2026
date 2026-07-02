@@ -1,0 +1,245 @@
+MatchID,TeamID,Time,Scorer,Assist,IsOwnGoal,IsPenalty
+760415,203,9',Julián Quiñones,Érik Lira,False,False
+760415,203,67',Raúl Jiménez,Roberto Alvarado,False,False
+760414,450,59',Ladislav Krejcí,Vladimír Coufal,False,False
+760414,451,67',Hwang In-Beom,Lee Kang-In,False,False
+760414,451,80',Oh Hyeon-Gyu,Hwang In-Beom,False,False
+760416,452,21',Jovo Lukic,Sead Kolasinac,False,False
+760416,206,78',Cyle Larin,Promise David,False,False
+760417,660,7',Damián Bobadilla,None,True,False
+760417,660,31',Folarin Balogun,Christian Pulisic,False,False
+760417,660,45'+5',Folarin Balogun,Malik Tillman,False,False
+760417,210,73',Maurício,Julio Enciso,False,False
+760417,660,90'+8',Giovanni Reyna,Alex Freeman,False,False
+760420,475,17',Breel Embolo,None,False,True
+760420,4398,90'+4',Miro Muheim,Homam Ahmed,True,False
+760419,2869,21',Ismael Saibari,Brahim Díaz,False,False
+760419,205,32',Vinícius Júnior,Bruno Guimarães,False,False
+760418,580,28',John McGinn,None,False,False
+760421,628,27',Nestory Irankunda,Paul Okon-Engstler,False,False
+760421,628,75',Connor Metcalfe,None,False,False
+760422,481,6',Felix Nmecha,Florian Wirtz,False,False
+760422,11678,21',Livano Comenencia,None,False,False
+760422,481,38',Nico Schlotterbeck,Nathaniel Brown,False,False
+760422,481,45'+5',Kai Havertz,None,False,True
+760422,481,47',Jamal Musiala,Joshua Kimmich,False,False
+760422,481,68',Nathaniel Brown,Deniz Undav,False,False
+760422,481,78',Deniz Undav,Joshua Kimmich,False,False
+760422,481,88',Kai Havertz,Deniz Undav,False,False
+760425,449,51',Virgil van Dijk,Ryan Gravenberch,False,False
+760425,627,57',Keito Nakamura,Takefusa Kubo,False,False
+760425,449,64',Crysencio Summerville,Ryan Gravenberch,False,False
+760425,627,89',Daichi Kamada,Koki Ogawa,False,False
+760423,4789,90',Amad Diallo,Wilfried Singo,False,False
+760424,466,7',Yasin Ayari,None,False,False
+760424,466,30',Alexander Isak,Viktor Gyökeres,False,False
+760424,659,43',Omar Rekik,Hannibal Mejbri,False,False
+760424,466,59',Viktor Gyökeres,Alexander Isak,False,False
+760424,466,84',Mattias Svanberg,Alexander Isak,False,False
+760424,466,90'+6',Yasin Ayari,Lucas Bergvall,False,False
+760426,2620,20',Emam Ashour,Mohamed Salah,False,False
+760426,459,66',Mohamed Hany,None,True,False
+760429,655,41',Abdulelah Al-Amri,None,False,False
+760429,212,80',Maxi Araújo,None,False,False
+760427,2666,7',Elijah Just,Chris Wood,False,False
+760427,469,32',Ramin Rezaeian,None,False,False
+760427,2666,54',Elijah Just,Chris Wood,False,False
+760427,469,64',Mohammad Mohebbi,Ramin Rezaeian,False,False
+760432,478,66',Kylian Mbappé,Michael Olise,False,False
+760432,478,82',Bradley Barcola,Adrien Rabiot,False,False
+760432,654,90'+5',Ibrahim Mbaye,Iliman Ndiaye,False,False
+760432,478,90'+6',Kylian Mbappé,None,False,False
+760430,464,29',Erling Haaland,David Møller Wolfe,False,False
+760430,4375,39',Aymen Hussein,Amir Al-Ammari,False,False
+760430,464,43',Erling Haaland,None,False,False
+760430,464,76',Leo Østigard,Martin Ødegaard,False,False
+760430,464,90'+6',Aymen Hussein,None,True,False
+760433,202,17',Lionel Messi,Rodrigo De Paul,False,False
+760433,202,60',Lionel Messi,None,False,False
+760433,202,76',Lionel Messi,Nico González,False,False
+760431,474,21',Romano Schmid,Xaver Schlager,False,False
+760431,2917,50',Ali Olwan,Noor Al-Rawabdeh,False,False
+760431,474,76',Yazan Al-Arab,None,True,False
+760431,474,90'+12',Marko Arnautovic,None,False,True
+760435,482,6',João Neves,Pedro Neto,False,False
+760435,2850,45'+5',Yoane Wissa,Arthur Masuaku,False,False
+760437,448,12',Harry Kane,None,False,True
+760437,477,36',Martin Baturina,Petar Sucic,False,False
+760437,448,42',Harry Kane,Declan Rice,False,False
+760437,477,45'+5',Petar Musa,Ivan Perisic,False,False
+760437,448,47',Jude Bellingham,Elliot Anderson,False,False
+760437,448,85',Marcus Rashford,Bukayo Saka,False,False
+760434,4469,90'+5',Caleb Yirenkyi,Brandon Thomas-Asante,False,False
+760436,208,40',Daniel Muñoz,Luis Díaz,False,False
+760436,2570,60',Abbosbek Fayzullaev,None,False,False
+760436,208,65',Luis Díaz,Gustavo Puerta,False,False
+760436,208,90'+9',Jáminton Campaz,Cucho Hernández,False,False
+760438,450,6',Michal Sadílek,Alexandr Sojka,False,False
+760438,467,83',Teboho Mokoena,None,False,True
+760439,475,74',Johan Manzambi,None,False,False
+760439,475,84',Rubén Vargas,Breel Embolo,False,False
+760439,475,90',Johan Manzambi,Rubén Vargas,False,False
+760439,452,90'+3',Ermin Mahmic,None,False,False
+760439,475,90'+7',Granit Xhaka,None,False,True
+760440,206,16',Cyle Larin,None,False,False
+760440,206,29',Jonathan David,None,False,False
+760440,206,45'+3',Jonathan David,None,False,False
+760440,206,64',Nathan Saliba,None,False,False
+760440,206,75',Mohamed Manai,None,True,False
+760440,206,90'+2',Jonathan David,Nathan Saliba,False,False
+760441,203,50',Luis Romo,None,False,False
+760442,660,11',Cameron Burgess,None,True,False
+760442,660,43',Alex Freeman,None,False,False
+760445,2869,2',Ismael Saibari,Brahim Díaz,False,False
+760444,205,23',Matheus Cunha,None,False,False
+760444,205,36',Matheus Cunha,Vinícius Júnior,False,False
+760444,205,45'+3',Vinícius Júnior,Lucas Paquetá,False,False
+760443,210,2',Matías Galarza,Julio Enciso,False,False
+760447,449,5',Brian Brobbey,Cody Gakpo,False,False
+760447,449,17',Brian Brobbey,Denzel Dumfries,False,False
+760447,449,47',Cody Gakpo,Denzel Dumfries,False,False
+760447,449,54',Cody Gakpo,Crysencio Summerville,False,False
+760447,466,59',Anthony Elanga,Alexander Isak,False,False
+760447,449,89',Crysencio Summerville,Memphis Depay,False,False
+760448,4789,30',Franck Kessié,None,False,False
+760448,481,68',Deniz Undav,Nadiem Amiri,False,False
+760448,481,90'+4',Deniz Undav,Felix Nmecha,False,False
+760449,627,4',Daichi Kamada,Keito Nakamura,False,False
+760449,627,31',Ayase Ueda,Kou Itakura,False,False
+760449,627,69',Junya Ito,Ayase Ueda,False,False
+760449,627,83',Ayase Ueda,Kaishu Sano,False,False
+760453,164,10',Lamine Yamal,Mikel Oyarzabal,False,False
+760453,164,21',Mikel Oyarzabal,Aymeric Laporte,False,False
+760453,164,24',Mikel Oyarzabal,Dani Olmo,False,False
+760453,164,49',Hassan Al-Tambakti,None,True,False
+760450,2597,21',Kevin Pina,None,False,False
+760450,212,44',Maxi Araújo,None,False,False
+760450,212,45'+6',Agustín Canobbio,Maxi Araújo,False,False
+760450,2597,61',Hélio Varela,None,False,False
+760452,2666,15',Finn Surman,Tim Payne,False,False
+760452,2620,58',Mostafa Zico,Mohamed Hany,False,False
+760452,2620,67',Mohamed Salah,Mostafa Zico,False,False
+760452,2620,82',Trézéguet,Mohamed Salah,False,False
+760456,202,38',Lionel Messi,Facundo Medina,False,False
+760456,202,90'+5',Lionel Messi,None,False,False
+760457,478,14',Kylian Mbappé,Michael Olise,False,False
+760457,478,54',Kylian Mbappé,Ousmane Dembélé,False,False
+760457,478,66',Ousmane Dembélé,Michael Olise,False,False
+760454,464,43',Marcus Holmgren Pedersen,None,False,False
+760454,464,48',Erling Haaland,Martin Ødegaard,False,False
+760454,654,53',Ismaïla Sarr,Sadio Mané,False,False
+760454,464,58',Erling Haaland,Patrick Berg,False,False
+760454,654,90'+3',Ismaïla Sarr,Nicolas Jackson,False,False
+760455,2917,36',Nizar Al-Rashdan,Mousa Al-Tamari,False,False
+760455,624,69',Nadhir Benbouali,Riyad Mahrez,False,False
+760455,624,82',Amine Gouiri,None,False,False
+760461,482,6',Cristiano Ronaldo,João Cancelo,False,False
+760461,482,17',Nuno Mendes,None,False,False
+760461,482,39',Cristiano Ronaldo,Bruno Fernandes,False,False
+760461,482,60',Abduvohid Nematov,None,True,False
+760461,482,87',Rafael Leão,None,False,False
+760460,477,54',Ante Budimir,Josip Stanisic,False,False
+760459,208,76',Daniel Muñoz,Juan Fernando Quintero,False,False
+760462,452,29',Kerim Alajbegovic,Ivan Basic,False,False
+760462,452,34',Mahmoud Abunada,None,True,False
+760462,4398,42',Hassan Al-Haydos,Edmílson Junior,False,False
+760462,452,80',Ermin Mahmic,Dennis Hadzikadunic,False,False
+760463,475,46',Rubén Vargas,Johan Manzambi,False,False
+760463,475,57',Johan Manzambi,Breel Embolo,False,False
+760463,206,76',Promise David,Nathan Saliba,False,False
+760464,2654,10',Yassine Bounou,Jean-Kévin Duverne,True,False
+760464,2869,39',Achraf Hakimi,None,False,False
+760464,2654,43',Wilson Isidor,Jean-Kévin Duverne,False,False
+760464,2869,45'+1',Ismael Saibari,Achraf Hakimi,False,False
+760464,2869,78',Soufiane Rahimi,Chadi Riad,False,False
+760464,2869,89',Gessime Yassine,Soufiane Rahimi,False,False
+760465,205,7',Vinícius Júnior,Rayan,False,False
+760465,205,45'+3',Vinícius Júnior,Bruno Guimarães,False,False
+760465,205,60',Matheus Cunha,Bruno Guimarães,False,False
+760467,203,55',Mateo Chávez,Luis Romo,False,False
+760467,203,61',Julián Quiñones,Jorge Sánchez,False,False
+760467,203,90'+4',Álvaro Fidalgo,Roberto Alvarado,False,False
+760466,467,63',Thapelo Maseko,Tshepang Moremi,False,False
+760473,4789,7',Nicolas Pépé,Yan Diomande,False,False
+760473,4789,64',Nicolas Pépé,Ibrahim Sangaré,False,False
+760468,481,2',Leroy Sané,Florian Wirtz,False,False
+760468,209,9',Nilson Angulo,Pedro Vite,False,False
+760468,209,77',Gonzalo Plata,Kevin Rodríguez,False,False
+760471,627,56',Daizen Maeda,Ritsu Doan,False,False
+760471,466,62',Anthony Elanga,Viktor Gyökeres,False,False
+760472,449,3',Ellyes Skhiri,None,True,False
+760472,449,7',Brian Brobbey,Virgil van Dijk,False,False
+760472,659,54',Hazem Mastouri,Hannibal Mejbri,False,False
+760472,449,62',Jan Paul van Hecke,Tijjani Reijnders,False,False
+760470,660,3',Auston Trusty,Sebastian Berhalter,False,False
+760470,465,10',Arda Güler,Baris Alper Yilmaz,False,False
+760470,465,31',Baris Alper Yilmaz,Orkun Kökçü,False,False
+760470,660,49',Sebastian Berhalter,None,False,False
+760470,465,90'+8',Kaan Ayhan,None,False,False
+760475,478,7',Ousmane Dembélé,Kylian Mbappé,False,False
+760475,478,20',Ousmane Dembélé,Kylian Mbappé,False,False
+760475,464,21',Thelo Aasgaard,Andreas Schjelderup,False,False
+760475,478,32',Ousmane Dembélé,Aurélien Tchouaméni,False,False
+760475,478,90'+4',Désiré Doué,Bradley Barcola,False,False
+760474,654,4',Habib Diarra,Abdoulaye Seck,False,False
+760474,654,56',Ismaïla Sarr,Lamine Camara,False,False
+760474,654,59',Pape Gueye,Ismaïla Sarr,False,False
+760474,654,71',Pape Gueye,Iliman Ndiaye,False,False
+760474,654,82',Iliman Ndiaye,Pape Gueye,False,False
+760479,164,42',Álex Baena,Marcos Llorente,False,False
+760476,2620,5',Mahmoud Saber,Trézéguet,False,False
+760476,469,14',Ramin Rezaeian,None,False,False
+760477,459,28',Leandro Trossard,None,False,False
+760477,459,50',Leandro Trossard,Hans Vanaken,False,False
+760477,459,66',Kevin De Bruyne,None,False,False
+760477,2666,84',Elijah Just,None,False,False
+760477,459,86',Romelu Lukaku,Nicolas Raskin,False,False
+760477,459,90'+4',Alexis Saelemaekers,Romelu Lukaku,False,False
+760480,477,31',Petar Sucic,Mateo Kovacic,False,False
+760480,4469,73',Derrick Luckassen,Ernest Nuamah,False,False
+760480,477,83',Nikola Vlasic,Luka Modric,False,False
+760485,448,62',Jude Bellingham,Bukayo Saka,False,False
+760485,448,67',Harry Kane,Jude Bellingham,False,False
+760482,2570,10',Eldor Shomurodov,Akmal Mozgovoy,False,False
+760482,2850,68',Yoane Wissa,None,False,True
+760482,2850,78',Fiston Mayele,None,False,False
+760482,2850,90'+1',Yoane Wissa,Meschack Elia,False,False
+760484,474,28',Marko Arnautovic,David Alaba,False,False
+760484,624,45',Rafik Belghali,None,False,False
+760484,474,55',Marcel Sabitzer,Konrad Laimer,False,False
+760484,624,60',Riyad Mahrez,Houssem Aouar,False,False
+760484,624,90'+3',Riyad Mahrez,Houssem Aouar,False,False
+760484,474,90'+6',Sasa Kalajdzic,Michael Gregoritsch,False,False
+760483,202,19',Giovani Lo Celso,None,False,False
+760483,202,31',Lautaro Martínez,None,False,True
+760483,2917,55',Mousa Al-Tamari,Ehsan Haddad,False,False
+760483,202,80',Lionel Messi,None,False,False
+760486,206,90'+2',Stephen Eustáquio,None,False,False
+760487,627,29',Kaishu Sano,None,False,False
+760487,205,56',Casemiro,Gabriel Magalhães,False,False
+760487,205,90'+5',Gabriel Martinelli,Bruno Guimarães,False,False
+760489,210,42',Julio Enciso,Matías Galarza,False,False
+760489,481,54',Kai Havertz,Florian Wirtz,False,False
+760488,449,72',Cody Gakpo,Crysencio Summerville,False,False
+760488,2869,90'+1',Issa Diop,Chemsdine Talbi,False,False
+760490,464,39',Antonio Nusa,Martin Ødegaard,False,False
+760490,4789,74',Amad Diallo,Nicolas Pépé,False,False
+760490,464,86',Erling Haaland,Patrick Berg,False,False
+760492,478,45',Kylian Mbappé,Ousmane Dembélé,False,False
+760492,478,53',Bradley Barcola,Michael Olise,False,False
+760492,478,74',Kylian Mbappé,Michael Olise,False,False
+760491,203,22',Julián Quiñones,Roberto Alvarado,False,False
+760491,203,31',Raúl Jiménez,Julián Quiñones,False,False
+760495,2850,7',Brian Cipenga,Chancel Mbemba,False,False
+760495,448,75',Harry Kane,Anthony Gordon,False,False
+760495,448,86',Harry Kane,Anthony Gordon,False,False
+760493,654,24',Habib Diarra,None,False,False
+760493,654,51',Ismaïla Sarr,Moussa Niakhaté,False,False
+760493,459,86',Romelu Lukaku,Thomas Meunier,False,False
+760493,459,89',Youri Tielemans,Leandro Trossard,False,False
+760493,459,120'+5',Youri Tielemans,None,False,True
+760494,660,45',Folarin Balogun,None,False,False
+760494,660,82',Malik Tillman,None,False,False
+760497,164,36',Mikel Oyarzabal,Marc Cucurella,False,False
+760497,164,66',Pedro Porro,Álex Baena,False,False
+760497,164,89',Mikel Oyarzabal,Marc Cucurella,False,False
