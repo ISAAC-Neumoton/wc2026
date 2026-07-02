@@ -1,33 +1,33 @@
-name: FIFA World Cup 2026 Daily Data Pipeline
+name: WC2026 Data Update
+
+permissions:
+  contents: write
 
 on:
   schedule:
-    # Runs automatically every single day at 01:00 UTC
-    - cron: '0 1 * * *'
-  workflow_dispatch:
-    # Adds a button on GitHub so you can manually trigger an update anytime
+    - cron: "15 */4 * * *"
+  workflow_dispatch: {}
 
 jobs:
-  run-pipeline:
+  update:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository files
-      uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-    - name: Set up Python Environment
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
-        cache: 'pip'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-    - name: Install Project Dependencies
-      run: |
-        python -m pip install --upgrade pip
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-    - name: Run ESPN API Extraction
-      env:
-        # Secure placeholder for your forthcoming Google Sheets credentials
-        GOOGLE_SERVICE_ACCOUNT_CREDENTIALS: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_CREDENTIALS }}
-      run: python update_stats.py
+      - name: Run update script
+        run: python update_stats.py
+
+      - name: Commit CSV backups
+        run: |
+          git config user.name "wc2026-bot"
+          git config user.email "actions@github.com"
+          git add data_output/*.csv
+          git diff --staged --quiet || git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
