@@ -1,5 +1,4 @@
-# Ignore local data outputs
-data_output/
+
 
 # Python caching artifacts
 __pycache__/
