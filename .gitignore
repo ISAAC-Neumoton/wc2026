@@ -1,5 +1,3 @@
-
-
 # Python caching artifacts
 __pycache__/
 *.pyc
