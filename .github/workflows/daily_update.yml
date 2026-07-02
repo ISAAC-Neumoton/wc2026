@@ -1,0 +1,33 @@
+name: FIFA World Cup 2026 Daily Data Pipeline
+
+on:
+  schedule:
+    # Runs automatically every single day at 01:00 UTC
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    # Adds a button on GitHub so you can manually trigger an update anytime
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository files
+      uses: actions/checkout@v4
+
+    - name: Set up Python Environment
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+
+    - name: Install Project Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Run ESPN API Extraction
+      env:
+        # Secure placeholder for your forthcoming Google Sheets credentials
+        GOOGLE_SERVICE_ACCOUNT_CREDENTIALS: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_CREDENTIALS }}
+      run: python update_stats.py
