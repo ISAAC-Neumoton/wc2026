@@ -248,3 +248,5 @@ MatchID,TeamID,Time,Scorer,Assist,IsOwnGoal,IsPenalty
 760496,482,90'+4',Gonçalo Ramos,Rafael Leão,False,False
 760498,475,10',Breel Embolo,Johan Manzambi,False,False
 760498,475,46',Dan Ndoye,None,False,False
+760499,2620,13',Emam Ashour,Karim Hafez,False,False
+760499,628,55',Mohamed Hany,None,True,False
