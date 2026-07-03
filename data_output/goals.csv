@@ -243,3 +243,7 @@ MatchID,TeamID,Time,Scorer,Assist,IsOwnGoal,IsPenalty
 760497,164,36',Mikel Oyarzabal,Marc Cucurella,False,False
 760497,164,66',Pedro Porro,Álex Baena,False,False
 760497,164,89',Mikel Oyarzabal,Marc Cucurella,False,False
+760496,477,53',Ivan Perisic,None,False,False
+760496,482,68',Cristiano Ronaldo,None,False,True
+760496,482,90'+4',Gonçalo Ramos,Rafael Leão,False,False
+760498,475,10',Breel Embolo,Johan Manzambi,False,False
