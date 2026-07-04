@@ -256,3 +256,6 @@ MatchID,TeamID,Time,Scorer,Assist,IsOwnGoal,IsPenalty
 760500,2597,103',Sidny Lopes Cabral,Yannick Semedo,False,False
 760500,202,111',Diney Borges,None,True,False
 760501,208,14',Jhon Arias,Luis Suárez,False,False
+760502,2869,50',Azzedine Ounahi,Achraf Hakimi,False,False
+760502,2869,82',Azzedine Ounahi,Brahim Díaz,False,False
+760502,2869,90'+8',Soufiane Rahimi,Brahim Díaz,False,False
