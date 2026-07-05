@@ -259,3 +259,4 @@ MatchID,TeamID,Time,Scorer,Assist,IsOwnGoal,IsPenalty
 760502,2869,50',Azzedine Ounahi,Achraf Hakimi,False,False
 760502,2869,82',Azzedine Ounahi,Brahim Díaz,False,False
 760502,2869,90'+8',Soufiane Rahimi,Brahim Díaz,False,False
+760503,478,70',Kylian Mbappé,None,False,True
