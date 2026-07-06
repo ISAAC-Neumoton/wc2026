@@ -260,3 +260,11 @@ MatchID,TeamID,Time,Scorer,Assist,IsOwnGoal,IsPenalty
 760502,2869,82',Azzedine Ounahi,Brahim Díaz,False,False
 760502,2869,90'+8',Soufiane Rahimi,Brahim Díaz,False,False
 760503,478,70',Kylian Mbappé,None,False,True
+760504,464,79',Erling Haaland,Andreas Schjelderup,False,False
+760504,464,90',Erling Haaland,Andreas Schjelderup,False,False
+760504,205,90'+10',Neymar,None,False,True
+760505,448,36',Jude Bellingham,Bukayo Saka,False,False
+760505,448,38',Jude Bellingham,Harry Kane,False,False
+760505,203,42',Julián Quiñones,None,False,False
+760505,448,60',Harry Kane,None,False,True
+760505,203,69',Raúl Jiménez,None,False,True
