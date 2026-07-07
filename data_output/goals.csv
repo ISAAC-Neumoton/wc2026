@@ -268,3 +268,9 @@ MatchID,TeamID,Time,Scorer,Assist,IsOwnGoal,IsPenalty
 760505,203,42',Julián Quiñones,None,False,False
 760505,448,60',Harry Kane,None,False,True
 760505,203,69',Raúl Jiménez,None,False,True
+760506,164,90'+1',Mikel Merino,Ferran Torres,False,False
+760507,459,9',Charles De Ketelaere,Nicolas Raskin,False,False
+760507,660,31',Malik Tillman,None,False,False
+760507,459,33',Charles De Ketelaere,Leandro Trossard,False,False
+760507,459,57',Hans Vanaken,Charles De Ketelaere,False,False
+760507,459,90'+3',Romelu Lukaku,Hans Vanaken,False,False
