@@ -281,3 +281,6 @@ MatchID,TeamID,Time,Scorer,Assist,IsOwnGoal,IsPenalty
 760509,202,90'+2',Enzo Fernández,Lautaro Martínez,False,False
 760510,478,60',Kylian Mbappé,Désiré Doué,False,False
 760510,478,66',Ousmane Dembélé,Kylian Mbappé,False,False
+760511,164,30',Fabián Ruiz,None,False,False
+760511,459,41',Charles De Ketelaere,Timothy Castagne,False,False
+760511,164,88',Mikel Merino,None,False,False
