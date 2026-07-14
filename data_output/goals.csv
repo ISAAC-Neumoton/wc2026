@@ -291,3 +291,5 @@ MatchID,TeamID,Time,Scorer,Assist,IsOwnGoal,IsPenalty
 760513,475,67',Dan Ndoye,Ricardo Rodríguez,False,False
 760513,202,112',Julián Álvarez,José Manuel López,False,False
 760513,202,120'+1',Lautaro Martínez,None,False,False
+760514,164,22',Mikel Oyarzabal,None,False,True
+760514,164,58',Pedro Porro,Dani Olmo,False,False
