@@ -293,3 +293,6 @@ MatchID,TeamID,Time,Scorer,Assist,IsOwnGoal,IsPenalty
 760513,202,120'+1',Lautaro Martínez,None,False,False
 760514,164,22',Mikel Oyarzabal,None,False,True
 760514,164,58',Pedro Porro,Dani Olmo,False,False
+760515,448,55',Anthony Gordon,Morgan Rogers,False,False
+760515,202,85',Enzo Fernández,Lionel Messi,False,False
+760515,202,90'+2',Lautaro Martínez,Lionel Messi,False,False
