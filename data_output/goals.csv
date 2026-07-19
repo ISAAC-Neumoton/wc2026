@@ -297,3 +297,12 @@ MatchID,TeamID,Time,Scorer,Assist,IsOwnGoal,IsPenalty
 760515,202,85',Enzo Fernández,Lionel Messi,False,False
 760515,202,90'+2',Lautaro Martínez,Lionel Messi,False,False
 760516,448,3',Declan Rice,None,False,False
+760516,448,18',Ezri Konsa,Declan Rice,False,False
+760516,448,37',Bukayo Saka,Marcus Rashford,False,False
+760516,448,45'+1',Bukayo Saka,Eberechi Eze,False,False
+760516,478,48',Kylian Mbappé,Michael Olise,False,False
+760516,478,54',Bradley Barcola,Kylian Mbappé,False,False
+760516,478,66',Kylian Mbappé,Michael Olise,False,False
+760516,448,87',Bukayo Saka,None,False,True
+760516,478,90'+6',Ousmane Dembélé,Dayot Upamecano,False,False
+760516,448,90'+8',Jude Bellingham,None,False,False
